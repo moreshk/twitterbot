@@ -3,13 +3,13 @@
 
 # AI Twitter Bot
 
-This project is a Twitter bot that leverages the power of OpenAI's GPT-3 model to generate automated responses when the bot's account is tagged in a tweet. It uses Flask for the web framework and APScheduler for scheduling tasks. 
+This project is a Twitter bot that leverages the power of OpenAI's GPT-3.5 model to generate automated responses when the bot's account is tagged in a tweet. It uses Flask for the web framework and APScheduler for scheduling tasks. 
 
 ## Project Description
 
 The bot operates under the persona of "Karen", a mid-50s single professional woman who's an adjunct professor of humanities at a mid-tier academic institution. It frames its responses around diversity, equal opportunity for women and minorities, with a touch of snark and disappointment.
 
-
+Note that this is purely for demo, education and entertainment purposes. Feel free to adjust the persona as per your needs.
 
 This bot follows these steps when interacting:
 
@@ -76,4 +76,4 @@ This project is licensed under the MIT License.
 
 ## Disclaimer
 
-This bot uses OpenAI's GPT-3 model to generate responses. The project maintainers are not responsible for the content of the responses. Please use responsibly.
+This bot uses OpenAI's GPT-3.5 model to generate responses. The project maintainers are not responsible for the content of the responses. Please use responsibly.
