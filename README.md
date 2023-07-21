@@ -1,5 +1,5 @@
 
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/var/folders/pk/h5lh96vn4vsbhvp6hgph5w_80000gn/T/TemporaryItems/NSIRD_screencaptureui_Thh3xV/Screen%2520Shot%25202023-07-21%2520at%25203.39.17%2520pm.png?version%253D1689917962100)
+<img width="584" alt="Screen Shot 2023-07-21 at 3 41 43 pm" src="https://github.com/moreshk/twitterbot/assets/4209287/0267ae86-1bef-4577-979b-02b53abe1356">
 
 # AI Twitter Bot
 
